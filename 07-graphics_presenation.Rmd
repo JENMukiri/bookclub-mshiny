@@ -1,0 +1,8 @@
+# Graphics and Shiny
+
+
+```{r test, echo=FALSE}
+knitr::include_url("https://masteringshinych7.netlify.app/#1")
+```
+
+
